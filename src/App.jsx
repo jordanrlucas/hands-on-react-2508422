@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Welcome from './components/Welcome';
 import Support from './components/Support';
-import Listcast from './components/ListCast';
 import ListCast from './components/ListCast';
 
 function App() {
